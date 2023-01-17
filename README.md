@@ -1,3 +1,3 @@
-# NLW-Setup---habits-tracker
+# NLW-Setup - habits tracker
 
 13
