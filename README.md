@@ -1,3 +1,6 @@
 # NLW-Setup - habits tracker
 
-30
+40
+
+- [x] Configuração do Prima
+- [ ] Configuração do CORS
